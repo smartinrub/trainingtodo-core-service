@@ -1,4 +1,4 @@
-package models
+package com.smartinrub.trainingtodocoreservice.models
 
 import javax.persistence.Entity
 import javax.persistence.GeneratedValue

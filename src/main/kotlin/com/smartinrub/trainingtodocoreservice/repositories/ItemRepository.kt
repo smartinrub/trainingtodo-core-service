@@ -1,6 +1,6 @@
-package repositories
+package com.smartinrub.trainingtodocoreservice.repositories
 
-import models.Item
+import com.smartinrub.trainingtodocoreservice.models.Item
 import org.springframework.data.repository.CrudRepository
 
 interface ItemRepository : CrudRepository<Item, Long> {
